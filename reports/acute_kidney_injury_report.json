@@ -1,0 +1,191 @@
+{
+    "signal": "Acute kidney injury",
+    "overview": {
+        "total_rows": 1068,
+        "unique_cases": 1024,
+        "reported_cases_for_signal": 80,
+        "signal_rank": 1
+    },
+    "seriousness": {
+        "serious_cases": 1023,
+        "serious_case_percentage": 99.9
+    },
+    "patient_profile": {
+        "age_groups": {
+            "Older Adult": 673,
+            "Adult": 248,
+            "Unknown": 87,
+            "Pediatric": 16
+        },
+        "sex": {
+            "female": 503,
+            "male": 493,
+            "Unknown": 28
+        }
+    },
+    "geographic_distribution": {
+        "eu": 325,
+        "united kingdom": 278,
+        "france": 187,
+        "canada": 55,
+        "italy": 52,
+        "germany": 39,
+        "spain": 26,
+        "poland": 21,
+        "portugal": 9,
+        "Unknown": 7,
+        "belgium": 4,
+        "united states": 4,
+        "IE": 3,
+        "RO": 2,
+        "SA": 2,
+        "sweden": 2,
+        "UA": 2,
+        "HR": 2,
+        "FI": 1,
+        "australia": 1,
+        "indonesia": 1,
+        "china": 1
+    },
+    "signal_evidence": {
+        "evidence_case_count": 80,
+        "countries": {
+            "france": 30,
+            "spain": 3,
+            "italy": 4,
+            "portugal": 1,
+            "united kingdom": 6,
+            "RO": 1,
+            "belgium": 1,
+            "germany": 1,
+            "eu": 30,
+            "canada": 3
+        },
+        "sex": {
+            "male": 45,
+            "female": 32,
+            "Unknown": 3
+        },
+        "outcomes": {
+            "recovered/resolved": 39,
+            "recovering/resolving": 21,
+            "unknown": 5,
+            "fatal": 7,
+            "recovered/resolved with sequelae": 2,
+            "not recovered/not resolved/ongoing": 6
+        }
+    },
+    "signal_associated_drugs": {
+        "BISOPROLOL": 61,
+        "FUROSEMIDE": 36,
+        "DAPAGLIFLOZIN": 22,
+        "BISOPROLOL FUMARATE": 20,
+        "PANTOPRAZOLE": 18,
+        "METFORMIN": 15,
+        "ATORVASTATIN": 15,
+        "SPIRONOLACTONE": 12,
+        "ASPIRIN": 12,
+        "LEVOTHYROXINE": 11,
+        "ALLOPURINOL": 11,
+        "APIXABAN": 11,
+        "RAMIPRIL": 11,
+        "AMLODIPINE": 10,
+        "ACETAMINOPHEN": 9,
+        "KARDEGIC": 9,
+        "ROSUVASTATIN": 8,
+        "ENTRESTO": 7,
+        "METFORMIN HYDROCHLORIDE": 7,
+        "ELIQUIS": 7
+    },
+    "top_reported_drugs": {
+        "BISOPROLOL": 803,
+        "ATORVASTATIN": 265,
+        "FUROSEMIDE": 249,
+        "BISOPROLOL FUMARATE": 212,
+        "ASPIRIN": 166,
+        "RAMIPRIL": 162,
+        "APIXABAN": 132,
+        "ACETAMINOPHEN": 130,
+        "DAPAGLIFLOZIN": 116,
+        "PANTOPRAZOLE": 115,
+        "LANSOPRAZOLE": 109,
+        "AMLODIPINE": 103,
+        "SPIRONOLACTONE": 90,
+        "OMEPRAZOLE": 89,
+        "METFORMIN": 83,
+        "CLOPIDOGREL": 82,
+        "ALLOPURINOL": 80,
+        "ROSUVASTATIN": 72,
+        "ELIQUIS": 72,
+        "LEVOTHYROXINE": 71
+    },
+    "top_reported_indications": {
+        "Product used for unknown indication": 753,
+        "Hypertension": 206,
+        "Atrial fibrillation": 123,
+        "Cardiac failure": 69,
+        "Ill-defined disorder": 59,
+        "Prophylaxis": 56,
+        "Pain": 50,
+        "Type 2 diabetes mellitus": 46,
+        "Dyslipidaemia": 36,
+        "Adverse drug reaction": 35,
+        "Depression": 34,
+        "Hypercholesterolaemia": 28,
+        "Hypothyroidism": 28,
+        "Diabetes mellitus": 23,
+        "Anxiety": 22,
+        "Myocardial ischaemia": 22,
+        "Benign prostatic hyperplasia": 18,
+        "Breast cancer": 18,
+        "Gastrooesophageal reflux disease": 17,
+        "Cardiovascular event prophylaxis": 17
+    },
+    "signal_scoring": {
+        "total_score": 90,
+        "priority": "HIGH",
+        "reporting_percentage": 7.81,
+        "serious_percentage": 100.0,
+        "fatal_percentage": 8.75,
+        "component_scores": {
+            "frequency_score": 25,
+            "rank_score": 20,
+            "evidence_score": 20,
+            "seriousness_score": 15,
+            "fatal_score": 10
+        },
+        "interpretation": "The signal score is a prioritization measure based on observed reporting patterns. It should not be interpreted as evidence of a causal relationship between the medicinal product and the reported reaction."
+    },
+    "overall_outcomes": {
+        "recovered/resolved": 1261,
+        "unknown": 1026,
+        "not recovered/not resolved/ongoing": 533,
+        "recovering/resolving": 401,
+        "fatal": 131,
+        "recovered/resolved with sequelae": 34
+    },
+    "time_trend": {
+        "2024-12": 21,
+        "2025-01": 75,
+        "2025-02": 94,
+        "2025-03": 83,
+        "2025-04": 78,
+        "2025-05": 80,
+        "2025-06": 84,
+        "2025-07": 109,
+        "2025-08": 64,
+        "2025-09": 76,
+        "2025-10": 102,
+        "2025-11": 75,
+        "2025-12": 83
+    },
+    "assessment": "Acute kidney injury was the most frequently reported adverse reaction in the analyzed dataset, with 80 reported case(s). The signal-specific evidence contains 80 matching case(s), of which 80 were classified as serious. The signal-specific evidence includes 7 fatal outcome(s). The signal ranked 1 among the reported adverse reactions and received a prioritization score of 90/100, resulting in a HIGH priority classification. Among the signal-associated medicinal products, the most frequently reported were BISOPROLOL, FUROSEMIDE, DAPAGLIFLOZIN. These medicinal products were reported in cases associated with the signal; the observed co-reporting does not establish a causal relationship between any specific medicinal product and the reported reaction. The findings should therefore be interpreted as reporting-pattern evidence intended to support further pharmacovigilance investigation.",
+    "limitations": [
+        "The analysis is based on reported safety cases.",
+        "The signal score is a project-specific prioritization measure and is not a validated causal inference method.",
+        "Reporting frequency does not establish causality.",
+        "Multiple drugs may be reported within the same case.",
+        "Missing or incomplete patient information may affect subgroup analysis.",
+        "The dataset may contain duplicate information across related records."
+    ]
+}

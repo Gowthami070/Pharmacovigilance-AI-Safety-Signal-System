@@ -1,0 +1,204 @@
+======================================================================
+PHARMACOVIGILANCE SAFETY SIGNAL REPORT
+======================================================================
+
+Safety Signal: Acute kidney injury
+
+----------------------------------------------------------------------
+1. OVERVIEW
+----------------------------------------------------------------------
+Total dataset rows        : 1068
+Unique safety cases       : 1024
+Cases reporting signal    : 80
+Signal rank               : 1
+
+----------------------------------------------------------------------
+2. SERIOUSNESS
+----------------------------------------------------------------------
+Serious cases             : 1023
+Serious case percentage   : 99.9%
+
+----------------------------------------------------------------------
+3. PATIENT PROFILE
+----------------------------------------------------------------------
+Age Groups:
+  - Older Adult: 673
+  - Adult: 248
+  - Unknown: 87
+  - Pediatric: 16
+
+Sex:
+  - female: 503
+  - male: 493
+  - Unknown: 28
+
+----------------------------------------------------------------------
+4. GEOGRAPHIC DISTRIBUTION
+----------------------------------------------------------------------
+  - eu: 325
+  - united kingdom: 278
+  - france: 187
+  - canada: 55
+  - italy: 52
+  - germany: 39
+  - spain: 26
+  - poland: 21
+  - portugal: 9
+  - Unknown: 7
+  - belgium: 4
+  - united states: 4
+  - IE: 3
+  - RO: 2
+  - SA: 2
+  - sweden: 2
+  - UA: 2
+  - HR: 2
+  - FI: 1
+  - australia: 1
+  - indonesia: 1
+  - china: 1
+
+----------------------------------------------------------------------
+5. SIGNAL-SPECIFIC EVIDENCE
+----------------------------------------------------------------------
+Evidence cases            : 80
+
+Countries represented:
+  - france: 30
+  - spain: 3
+  - italy: 4
+  - portugal: 1
+  - united kingdom: 6
+  - RO: 1
+  - belgium: 1
+  - germany: 1
+  - eu: 30
+  - canada: 3
+
+Sex distribution:
+  - male: 45
+  - female: 32
+  - Unknown: 3
+
+Signal outcomes:
+  - recovered/resolved: 39
+  - recovering/resolving: 21
+  - unknown: 5
+  - fatal: 7
+  - recovered/resolved with sequelae: 2
+  - not recovered/not resolved/ongoing: 6
+
+----------------------------------------------------------------------
+6. OVERALL REPORTED OUTCOMES
+----------------------------------------------------------------------
+  - recovered/resolved: 1261
+  - unknown: 1026
+  - not recovered/not resolved/ongoing: 533
+  - recovering/resolving: 401
+  - fatal: 131
+  - recovered/resolved with sequelae: 34
+
+----------------------------------------------------------------------
+7. TOP REPORTED MEDICINAL PRODUCTS
+----------------------------------------------------------------------
+  - BISOPROLOL: 803
+  - ATORVASTATIN: 265
+  - FUROSEMIDE: 249
+  - BISOPROLOL FUMARATE: 212
+  - ASPIRIN: 166
+  - RAMIPRIL: 162
+  - APIXABAN: 132
+  - ACETAMINOPHEN: 130
+  - DAPAGLIFLOZIN: 116
+  - PANTOPRAZOLE: 115
+  - LANSOPRAZOLE: 109
+  - AMLODIPINE: 103
+  - SPIRONOLACTONE: 90
+  - OMEPRAZOLE: 89
+  - METFORMIN: 83
+  - CLOPIDOGREL: 82
+  - ALLOPURINOL: 80
+  - ROSUVASTATIN: 72
+  - ELIQUIS: 72
+  - LEVOTHYROXINE: 71
+
+----------------------------------------------------------------------
+8. SIGNAL-ASSOCIATED MEDICINAL PRODUCTS
+----------------------------------------------------------------------
+Medicinal products reported in cases associated with the signal: Acute kidney injury
+
+  - BISOPROLOL: 61 case(s)
+  - FUROSEMIDE: 36 case(s)
+  - DAPAGLIFLOZIN: 22 case(s)
+  - BISOPROLOL FUMARATE: 20 case(s)
+  - PANTOPRAZOLE: 18 case(s)
+  - METFORMIN: 15 case(s)
+  - ATORVASTATIN: 15 case(s)
+  - SPIRONOLACTONE: 12 case(s)
+  - ASPIRIN: 12 case(s)
+  - LEVOTHYROXINE: 11 case(s)
+  - ALLOPURINOL: 11 case(s)
+  - APIXABAN: 11 case(s)
+  - RAMIPRIL: 11 case(s)
+  - AMLODIPINE: 10 case(s)
+  - ACETAMINOPHEN: 9 case(s)
+  - KARDEGIC: 9 case(s)
+  - ROSUVASTATIN: 8 case(s)
+  - ENTRESTO: 7 case(s)
+  - METFORMIN HYDROCHLORIDE: 7 case(s)
+  - ELIQUIS: 7 case(s)
+
+----------------------------------------------------------------------
+9. REPORTING TIME TREND
+----------------------------------------------------------------------
+  - 2024-12: 21
+  - 2025-01: 75
+  - 2025-02: 94
+  - 2025-03: 83
+  - 2025-04: 78
+  - 2025-05: 80
+  - 2025-06: 84
+  - 2025-07: 109
+  - 2025-08: 64
+  - 2025-09: 76
+  - 2025-10: 102
+  - 2025-11: 75
+  - 2025-12: 83
+
+----------------------------------------------------------------------
+10. SIGNAL SCORING
+----------------------------------------------------------------------
+Total Signal Score       : 90/100
+Priority                 : HIGH
+Reporting Percentage     : 7.81%
+Serious Percentage       : 100.0%
+Fatal Percentage         : 8.75%
+
+Component Scores:
+  - frequency_score: 25
+  - rank_score: 20
+  - evidence_score: 20
+  - seriousness_score: 15
+  - fatal_score: 10
+
+Interpretation:
+  The signal score is a prioritization measure based on observed reporting patterns. It should not be interpreted as evidence of a causal relationship between the medicinal product and the reported reaction.
+
+----------------------------------------------------------------------
+11. ASSESSMENT
+----------------------------------------------------------------------
+Acute kidney injury was the most frequently reported adverse reaction in the analyzed dataset, with 80 reported case(s). The signal-specific evidence contains 80 matching case(s), of which 80 were classified as serious. The signal-specific evidence includes 7 fatal outcome(s). The signal ranked 1 among the reported adverse reactions and received a prioritization score of 90/100, resulting in a HIGH priority classification. Among the signal-associated medicinal products, the most frequently reported were BISOPROLOL, FUROSEMIDE, DAPAGLIFLOZIN. These medicinal products were reported in cases associated with the signal; the observed co-reporting does not establish a causal relationship between any specific medicinal product and the reported reaction. The findings should therefore be interpreted as reporting-pattern evidence intended to support further pharmacovigilance investigation.
+
+----------------------------------------------------------------------
+12. LIMITATIONS
+----------------------------------------------------------------------
+  - The analysis is based on reported safety cases.
+  - The signal score is a project-specific prioritization measure and is not a validated causal inference method.
+  - Reporting frequency does not establish causality.
+  - Multiple drugs may be reported within the same case.
+  - Missing or incomplete patient information may affect subgroup analysis.
+  - The dataset may contain duplicate information across related records.
+
+======================================================================
+END OF REPORT
+======================================================================
