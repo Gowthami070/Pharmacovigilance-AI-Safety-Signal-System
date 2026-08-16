@@ -402,7 +402,6 @@ Gowthami_genar_ai_Challenge/
 │ ├── signal_scoring.py
 │ └── validation.py
 │
-├── venv/
 │
 ├── requirements.txt
 │
@@ -595,7 +594,6 @@ AI-assisted assessment
 JSON report
 Text report
 Interactive dashboard
-
 ⚖️ Disclaimer
 
 This project is intended for educational, analytical, and research purposes.
